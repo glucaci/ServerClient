@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ServerClient/bin
+/ServerClient/obj
+/ServerClient/ServerClient.xproj.user
+/ServerClient/project.lock.json
